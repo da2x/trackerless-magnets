@@ -1,0 +1,20 @@
+{
+  "title": "Trackerless Magnet URI",
+  "name": "trackerless-magnets",
+  "id": "trackerless-magnets@geeky.software",
+  "version": "0.8.1",
+  "description": "Rewrites all Magnet URI links to only contain file descriptors. Forces download clients to use decentralized (“trackerless”) peer-discovery rather than server-assisted peer-discovery (“trackers”). Peer-discovery may be slower initially but should also be more private.",
+  "main": "index.js",
+  "author": {
+    "name": "Geeky Software",
+    "url" : "http://www.geeky.software/"
+  },
+  "homepage": "http://www.geeky.software/browser-extensions/trackerless-magnets/index.html",
+  "license": "GPL-3.0",
+  "keywords": [
+    "jetpack"
+  ],
+  "permissions": {
+    "private-browsing": true
+  }
+}
