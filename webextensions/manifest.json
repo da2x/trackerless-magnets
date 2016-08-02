@@ -12,7 +12,7 @@
     "128": "img/icon128.png"
   },
   "permissions": [ "http://*/*", "https://*/*" ],
-  "incognito": "split",
+  "incognito": "spanning",
   "offline_enabled": true,
   "homepage_url": "https://www.geeky.software/browser-extensions/trackerless-magnets",
   "content_scripts": [ {
