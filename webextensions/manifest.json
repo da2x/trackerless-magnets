@@ -6,10 +6,10 @@
   "description": "Rewrites all Magnet URI links to forces BitTorrent clients to use trackerless rather than server-assisted peer-discovery.",
   "author": "Geeky Software",
   "icons": {
-    "16": "img/icon16.png",
-    "48": "img/icon48.png",
-    "96": "img/icon96.png",
-    "128": "img/icon128.png"
+    "16": "assets/icon.svg",
+    "48": "assets/icon.svg",
+    "96": "assets/icon.svg",
+    "128": "assets/icon.svg"
   },
   "permissions": [ "http://*/*", "https://*/*" ],
   "incognito": "spanning",
