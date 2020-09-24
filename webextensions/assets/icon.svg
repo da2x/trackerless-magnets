@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" height="100" viewBox="0 0 100 100" width="100">
   <path fill="#dedede" d="M6.666 6.666v20h26.668v-20H6.666z"/>
   <path d="M0 0v86.666h6.666v6.668H20V100h60v-6.666h13.334v-6.668H100V0H60v33.334h6.666V60H60v6.666H40V60h-6.666V33.334H40V0H0zm6.666 6.666h26.668v20h-6.668v40h6.668v6.668h33.332v-6.668h6.668v-40h-6.668v-20h26.668V80h-6.668v6.666H73.334v6.668H26.666v-6.668H13.334V80H6.666V6.666z"/>
